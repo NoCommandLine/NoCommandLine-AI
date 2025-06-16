@@ -2,7 +2,8 @@
 Private AI Chat - <i>Get the power of AI without leaking your data</i>
 
 <br/>
-<p align="center"> <b> All models are stored on your machine ||  No data leaves your machine</p>
+<p align="center"> <b> All models are stored on your machine ||  No data leaves your machine</b> </p>
+<p align="center"> Built on top of <a href="https://ollama.com/" target="_blank">Ollama</a> which allows you run LLMs on your local machine </p>
 
 ![NoCommandLine (AI Chat) home page showing a project's analytics](https://ai.nocommandline.com/static/images/demos/ncl-ai-chat-home.png)
 
