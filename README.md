@@ -1,5 +1,7 @@
-# NoCommandLine (AI Chat)
+# NoCommandLine (AI Chat) - v0.0.4
 Private AI Chat - <i>Get the power of AI without leaking your data</i>
+
+Available for Mac & Windows
 
 <br/>
 <p align="center"> <b> All models are stored on your machine ||  No data leaves your machine</b> </p>
